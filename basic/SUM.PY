@@ -9,4 +9,4 @@ num2 = float(input("Enter second number: "))
 result = num1 + num2
 
 # display result
-print("The sum is:", result)
+print("The sum is:", results)
