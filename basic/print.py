@@ -1,6 +1,0 @@
-print("HI JOHAN")
-print("How are you?")
-print("I am fine")
-print("how about you?")
-print("I am just in my college")
-print("Oh that's great")
